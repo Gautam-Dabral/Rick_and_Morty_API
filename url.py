@@ -1,0 +1,2 @@
+
+url = [ 'https://rickandmortyapi.com/api/character/?page=1', 'https://rickandmortyapi.com/api/character/?page=2', 'https://rickandmortyapi.com/api/character/?page=3', 'https://rickandmortyapi.com/api/character/?page=4', 'https://rickandmortyapi.com/api/character/?page=5', 'https://rickandmortyapi.com/api/character/?page=6']
